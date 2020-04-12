@@ -13,17 +13,17 @@ There are hundreds of comand line but the interesting thing is that most people 
 Below you’ll find a terminal **cheat sheet** that breaks down some of the most commonly used commands:
 - List all files in a long listing (detailed) format:
      *ls -al*
-- Display the present working directory
+- Display the present working directory:
      *pwd*
-- Create a directory
+- Create a directory:
      *mkdir directory*
-- Remove (delete) file
+- Remove (delete) file:
      *rm file*
-- Copy file1 to file2
+- Copy file1 to file2:
      *cp file1 file2*
-- Rename or move file1 to file2. If file2 is an existing directory, move file1 into directory file2
+- Rename or move file1 to file2. If file2 is an existing directory, move file1 into directory file2:
      *mv file1 file2*
-- View the contents of file
+- View the contents of file:
      *cat file*
 
 
