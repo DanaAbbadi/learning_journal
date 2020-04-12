@@ -21,7 +21,7 @@ Below you’ll find a terminal **cheat sheet** that breaks down some of the most
      *rm file*
 - Copy file1 to file2:
      *cp file1 file2*
-- Rename or move file1 to file2. If file2 is an existing directory, move file1 into directory file2:
+- Move file1 to file2:
      *mv file1 file2*
 - View the contents of file:
      *cat file*
