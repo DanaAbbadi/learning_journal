@@ -9,7 +9,7 @@ The text editor you use depends on a couple of factors, but primarily it comes d
 There are different types of text edititors, other than the one installed in your computer, you can use third party editors such as NotePad++ , TextWrangler/BB Edit, VS code,..ect 
 
 ## Using Terminal
-##### There are hundreds of comand line but the interesting thing is that most people only need to use a very small subset of those commands.
+There are hundreds of comand line but the interesting thing is that most people only need to use a very small subset of those commands.
 Below you’ll find a terminal **cheat sheet** that breaks down some of the most commonly used commands:
 - List all files in a long listing (detailed) format:
      *ls -al*
