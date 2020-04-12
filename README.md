@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Dana Abbadi
 
 You can use the [editor on GitHub](https://github.com/DanaAbbadi/learning_journal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
