@@ -11,8 +11,9 @@ HTML stands for *Hyper Text Markup Language* and it is the standard markup langu
 1. who your target audience is
 2. Why they would come to your site
 3. What information they want to find
-4. When they are likely to return.
-It's important to *Know your audiance*, so you can design your site according to.
+4. When they are likely to return
+
+* It's important to *Know your audiance*, so you can design your site according to.
 
 ## **HTML Structure** 
 
