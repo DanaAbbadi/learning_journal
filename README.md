@@ -1,7 +1,7 @@
 # Dana Abbadi
 
 
-Hello guys, Welcome to my site, hope you enjoy the ride! 
+Hello guys, Welcome to my journal, hope you enjoy the ride! 
 
 ![journal](https://theartofsimple.net/wp-content/uploads/2019/05/journal-laptop.jpg)
 
