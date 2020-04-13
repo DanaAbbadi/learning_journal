@@ -23,3 +23,6 @@ As you see, markdown makes styling websites more enjoyable and easy to learn!
 GitHub Pages is a static site hosting service that takes HTML, CSS, and JavaScript files straight from a repository on GitHub, runs the files through a build process, and publishes a website. 
 You can use github pages to share your projects with the world, by publishing a website using simple tools to formate and decorate your website. 
 
+
+
+
