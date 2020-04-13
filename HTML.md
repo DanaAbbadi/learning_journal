@@ -16,7 +16,7 @@ It's important to *Know your audiance*, so you can design your site according to
 
 ## **HTML Structure** 
 
-[html1](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2019/06/HTML-Structure-768x353.png)
+![html1](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2019/06/HTML-Structure-768x353.png)
 
 The three block level tags that you need for your HTML document are <html>, <head>, and <body>.
 
@@ -25,7 +25,7 @@ The three block level tags that you need for your HTML document are <html>, <hea
 3. The <body></body> tag encloses all the content that appears on the page.
 
 ## **HTML Basic elements**
-[html1](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2019/06/HTML-Elements-327x300.png)
+![html1](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2019/06/HTML-Elements-327x300.png)
 
 The bellow table shows some of the most commonly used tags in HTML:
 
@@ -34,7 +34,7 @@ The bellow table shows some of the most commonly used tags in HTML:
 | Headings | <h1>First Heading</h1> |
 | Paragraphs | <p>First Paragraph</p> |
 | Links  |  <a href="www.GitHub.com">Github</a>  |
-| Images  |  <img src="image.jpg" />  |
+| Images  |  < img src="image.jpg" />  |
 | Lists  |  <li>  </li>  |
 
 
