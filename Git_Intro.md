@@ -1,3 +1,4 @@
+[Home page](https://danaabbadi.github.io/learning_journal/)
 # Introduction to Git
 ![git](https://miro.medium.com/max/4400/1*oMC83-7fB27k1tTMxDfRaQ.png)
 
