@@ -1,11 +1,13 @@
 ## Dana Abbadi
 [gethub profile](https://github.com/DanaAbbadi)
 
-Hello guys, my name is Dana Al-Abbade, I'm 24 years old. I studied Communications engineering in Princess Sumaya University for Technology. 
+Hello guys, Welcome to my site, hope you enjoy the ride!:smiley:
+
+my name is Dana Al-Abbade, I'm 24 years old. I studied Communications engineering in Princess Sumaya University for Technology. 
  
  Table Of contents:
 
- |Subject                   | Link                                                                         |
+ |**Articles**                  | **Links**                                                                         |
  |--------------------------|------------------------------------------------------------------------------|
  | The coder's computer         | [Read 1](https://danaabbadi.github.io/learning_journal/Learning)             |
  |   learning Markdown  | [Read 2](https://danaabbadi.github.io/learning_journal/read2) |
