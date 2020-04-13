@@ -1,28 +1,37 @@
-# Learning Markdown
+## How to choose a text editor?
+To answer this question, we need first to know *What is a text editor*, A text editor is a computer program that allows you to create and edit files that contain plain text.
+Text editors are commonly used by web designers and developers because it provides maximum flexibility to create just about anything. 
+The text editor you use depends on a couple of factors, but primarily it comes down to personal preference. But there are some features to look for before choosing your text editor:
+- Code completion
+- Being able to write your HTML and CSS more efficiently. There is a kind of shorthand language called Emmet that can help.
+- Syntax highlighting, where it takes the text you type, and makes it more noticeable by colorizing the text.
 
-Markdown is a markup language, it styles texts on a webpage, you can also add images, links, lists and so on. What make it special is its simplicity, you don't need to learn html to understand it, it is as easy as writing simple regular text!
+There are different types of text edititors such as:
+* NotePad++ 
+* TextWrangler/BB Edit 
+* Visual Studio Code
+* Atom
 
-If you want to edit your text, like bolding some words, you will need to add some non-alphabetic characters. Each one of those have a different use, I will mention bellow some of them:
+## Using Terminal
 
-1. Bold : write your word in between ** ** .
-2. Italic: write your word in between * * .
-3. Strikethrough: write your word in between ~ ~ .
+There are hundreds of comand line but the interesting thing is that most people only need to use a very small subset of those commands.
+Below you’ll find a terminal **cheat sheet** that breaks down some of the most commonly used commands:
 
-you can visit this [link](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax) for more formatting styles.
+- **ls -al** : List all files in a long listing (detailed) format
 
-To add Images to your website, you will need to copy its address then write on your md file the following syntax:
-![image title] (image address). Similirly, to add a link use this syntax:
-[link title] (your link).
+- **cd** : Change Directories - ie. move to another directory.
 
-As you see, markdown makes styling websites more enjoyable and easy to learn!
-
-# Github pages
-
-![github](https://i.ytimg.com/vi/2MsN8gpT6jY/maxresdefault.jpg)
-
-GitHub Pages is a static site hosting service that takes HTML, CSS, and JavaScript files straight from a repository on GitHub, runs the files through a build process, and publishes a website. 
-You can use github pages to share your projects with the world, by publishing a website using simple tools to formate and decorate your website. 
-
-
+- **pwd** : Display the present working directory
+     
+- **mkdir directory** : Create a directory
+     
+- **rm file** : Remove (delete) file
+     
+- **cp file1 file2** : Copy file1 to file2
+     
+- **mv file1 file2** : Move file1 to file2
+     
+- **cat file** : View the contents of file
+     
 
 
