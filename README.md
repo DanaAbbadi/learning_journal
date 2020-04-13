@@ -8,6 +8,6 @@ Hello guys, my name is Dana Al-Abbade, I'm 24 years old. I studied Communication
  |Subject                   | Link                                                                         |
  |--------------------------|------------------------------------------------------------------------------|
  | learning Markdown        | [Read 1](https://danaabbadi.github.io/learning_journal/Learning)             |
- | The coder's computer     | [Read 2](https://danaabbadi.github.io/learning_journal/learning) |
- | Git introduction         | [Read 2](https://danaabbadi.github.io/learning_journal/Git_Intro)            |
+ | The coder's computer     | [Read 2](https://danaabbadi.github.io/learning_journal/Learning) |
+ | Git introduction         | [Read 3](https://danaabbadi.github.io/learning_journal/Git_Intro)            |
 
