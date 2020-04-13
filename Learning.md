@@ -1,3 +1,4 @@
+[Home page](https://danaabbadi.github.io/learning_journal/)
 ## How to choose a text editor?
 To answer this question, we need first to know *What is a text editor*, A text editor is a computer program that allows you to create and edit files that contain plain text.
 Text editors are commonly used by web designers and developers because it provides maximum flexibility to create just about anything. 

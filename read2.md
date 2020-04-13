@@ -1,3 +1,4 @@
+[Home page](https://danaabbadi.github.io/learning_journal/)
 # Learning Markdown
 
 Markdown is a markup language, it styles texts on a webpage, you can also add images, links, lists and so on. What make it special is its simplicity, you don't need to learn html to understand it, it is as easy as writing simple regular text!
