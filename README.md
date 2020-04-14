@@ -21,4 +21,4 @@ This is my GitHub Url: [Dana Abbadi](https://github.com/DanaAbbadi)
 | Git introduction   |  [3](https://danaabbadi.github.io/learning_journal/Git_Intro)  |
 | HTML   |  [4](https://danaabbadi.github.io/learning_journal/HTML)  |
 | CSS   |  [5](https://danaabbadi.github.io/learning_journal/CSS)  |
-
+| JavaScript   |  [6](https://danaabbadi.github.io/learning_journal/Javascript)  |
