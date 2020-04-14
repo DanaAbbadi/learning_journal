@@ -22,9 +22,7 @@
               
 
   * *VARIABLE*:
-  
-    ![varsec](https://miro.medium.com/max/734/1*IKWdLy1iqPGcVgaYZDlhvg.png)
-
+   
      variables are used to store data values. JavaScript uses the **var**  keyword to declare variables. An equal sign is used to assign values to variables.   
             For example: var sum = 0 ;
 
