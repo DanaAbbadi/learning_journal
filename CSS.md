@@ -1,3 +1,4 @@
+[Home page](https://danaabbadi.github.io/learning_journal/)
 # CSS BASICS 
 ![CSS](https://www.tutorialrepublic.com/lib/images/css-illustration.png)
 CSS stands for Cascading Style Sheets and almost all webpages and user interfaces written with HTML use it, since CSS is a style sheet language that adds styling and formatting to documents written in a markup language. Adding CSS to your HTML code will make make our websites unique and attractive.

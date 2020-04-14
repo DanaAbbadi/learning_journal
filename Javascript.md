@@ -17,8 +17,9 @@
 
   * *COMMENTS*:
     You should write comments to explain what your code does. They help make your code easier to read and understand. This can help you and others who read your code. There are two ways to add a comment:
-              1. Single comment: by adding " // " 
-              2. Multi-line comment: by writting your comment in between " /*   */ " 
+    1. Single comment: by adding  //  
+    2. Multi-line comment: by writting your comment in between  /*   */  
+              
 
   * *VARIABLE*:
     ![var](https://miro.medium.com/max/734/1*IKWdLy1iqPGcVgaYZDlhvg.png)
