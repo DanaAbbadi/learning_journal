@@ -24,5 +24,5 @@ This is my GitHub Url: [Dana Abbadi](https://github.com/DanaAbbadi)
 | JavaScript   |  [6](https://danaabbadi.github.io/learning_journal/Javascript)  |
 | How Computers work   |  [7](https://danaabbadi.github.io/learning_journal/Computers)  |
 | Programming with JavaScript   |  [8](https://danaabbadi.github.io/learning_journal/prog_with_JS)  |
-
+| Logical Operators and Loops   |  [9](https://danaabbadi.github.io/learning_journal/Loops)  |
 

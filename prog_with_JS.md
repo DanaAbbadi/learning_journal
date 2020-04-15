@@ -1,3 +1,5 @@
+[Home page](https://danaabbadi.github.io/learning_journal/)
+
 # Programming with JavaScript
 
 ![prog](https://res.cloudinary.com/springboard-images/image/upload/q_auto,f_auto,fl_lossy/wordpress/2019/08/sb-blog-java.png)
