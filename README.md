@@ -23,3 +23,6 @@ This is my GitHub Url: [Dana Abbadi](https://github.com/DanaAbbadi)
 | CSS   |  [5](https://danaabbadi.github.io/learning_journal/CSS)  |
 | JavaScript   |  [6](https://danaabbadi.github.io/learning_journal/Javascript)  |
 | How Computers work   |  [7](https://danaabbadi.github.io/learning_journal/Computers)  |
+| Programming with JavaScript   |  [8](https://danaabbadi.github.io/learning_journal/prog_with_JS)  |
+
+
