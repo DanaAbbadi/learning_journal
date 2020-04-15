@@ -33,9 +33,9 @@ Loops offer a quick and easy way to do something repeatedly. There are many diff
 
 
     A for statement looks as follows: <br/>
-           for ([initialExpression]; [condition]; [incrementExpression]) { <br/>
-                statements <br/> 
-           } <br/>
+    &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  for ([initialExpression]; [condition]; [incrementExpression]) { <br/>
+               &nbsp;  &nbsp;  &nbsp;  statements <br/> 
+                &nbsp;  } <br/>
     If the value of condition is true, the loop statements execute. If the value of condition is false, the for loop terminates.        
 
 * **While Loop** <br/>
@@ -48,8 +48,8 @@ Loops offer a quick and easy way to do something repeatedly. There are many diff
 
 
     A while statement looks as follows:<br/>
-          &nbsp;  while (condition){<br/>
-                &nbsp;  statements<br/>
+            &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; while (condition){<br/>
+                          &nbsp;  &nbsp;  &nbsp;  statements<br/>
                       &nbsp;   }<br/>
     
     If the condition becomes false, statement within the loop stops executing and control passes to the statement following the loop.
