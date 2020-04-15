@@ -34,10 +34,12 @@ Remark: for string operator only '+' is used, by joining two strings into one, t
 A function is a group of statements that together perform a specific task. If different parts of a script repeat the same task, you can
 reuse the function. To use the function in your code, you need to "call" it.
 Advantages of using functions:
+
    - Code Re-usability
    - Develop an application in module format.
    - Easily to debug the program.
    - Code optimization: No need to write lot of code.
+
 A JavaScript function is declared by with the function keyword, followed by a name, followed by parentheses ().
 The parentheses may include parameter names separated by commas: (parameter1, parameter2, ...)
 The code to be executed, by the function, is placed inside curly brackets: {}.
