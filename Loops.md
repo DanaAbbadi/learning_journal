@@ -29,7 +29,7 @@ Loops offer a quick and easy way to do something repeatedly. There are many diff
     A for loop repeats until a specified condition evaluates to false. <br/>
 
 
-    ![for](https://tutorial.techaltum.com/images/javascript-loops.jpg = 100 x 50) <br/>
+    ![for](https://tutorial.techaltum.com/images/javascript-loops.jpg) <br/>
 
 
     A for statement looks as follows: <br/>
@@ -48,8 +48,8 @@ Loops offer a quick and easy way to do something repeatedly. There are many diff
 
 
     A while statement looks as follows:<br/>
-            while (condition){<br/>
-                  statements<br/>
-                  }<br/>
+          &nbsp;  while (condition){<br/>
+                &nbsp;  statements<br/>
+                      &nbsp;   }<br/>
     
     If the condition becomes false, statement within the loop stops executing and control passes to the statement following the loop.
